@@ -1,4 +1,4 @@
-# Endurance-Training-Plan-Generator (run menu.py)
+# Endurance-Training-Plan-Generator
 
 OVERVIEW<br>
 -----------<br>
