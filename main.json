@@ -1,0 +1,325 @@
+{
+  "workouts": {
+    "test": {
+      "type": "x",
+      "minutes": 0,
+      "distance": 0,
+      "load": "y"
+    },
+    "workout1": {
+      "type": "cycling",
+      "minutes": 120,
+      "distance": 50,
+      "load": "medium"
+    },
+    "workout2": {
+      "type": "swimming",
+      "minutes": 50,
+      "distance": 1.5,
+      "load": "medium"
+    },
+    "workout3": {
+      "type": "running",
+      "minutes": 20,
+      "distance": 4,
+      "load": "hard"
+    },
+    "workout4": {
+      "type": "running",
+      "minutes": 40,
+      "distance": 7,
+      "load": "hard"
+    },
+    "workout5": {
+      "type": "swimming",
+      "minutes": 30,
+      "distance": 1,
+      "load": "easy"
+    }
+  },
+  "schedule": {
+    "week1": {
+      "day1": {
+        "morning": -1,
+        "lunch": -1,
+        "day": -1,
+        "evening": -1
+      },
+      "day2": {
+        "morning": -1,
+        "lunch": -1,
+        "day": -1,
+        "evening": -1
+      },
+      "day3": {
+        "morning": -1,
+        "lunch": -1,
+        "day": -1,
+        "evening": -1
+      },
+      "day4": {
+        "morning": -1,
+        "lunch": -1,
+        "day": -1,
+        "evening": -1
+      },
+      "day5": {
+        "morning": -1,
+        "lunch": -1,
+        "day": -1,
+        "evening": -1
+      },
+      "day6": {
+        "morning": -1,
+        "lunch": -1,
+        "day": -1,
+        "evening": -1
+      },
+      "day7": {
+        "morning": -1,
+        "lunch": -1,
+        "day": -1,
+        "evening": -1
+      }
+    },
+    "week2": {
+      "day1": {
+        "morning": -1,
+        "lunch": -1,
+        "day": -1,
+        "evening": -1
+      },
+      "day2": {
+        "morning": -1,
+        "lunch": -1,
+        "day": -1,
+        "evening": -1
+      },
+      "day3": {
+        "morning": -1,
+        "lunch": -1,
+        "day": -1,
+        "evening": -1
+      },
+      "day4": {
+        "morning": -1,
+        "lunch": -1,
+        "day": -1,
+        "evening": -1
+      },
+      "day5": {
+        "morning": -1,
+        "lunch": -1,
+        "day": -1,
+        "evening": -1
+      },
+      "day6": {
+        "morning": -1,
+        "lunch": -1,
+        "day": -1,
+        "evening": -1
+      },
+      "day7": {
+        "morning": -1,
+        "lunch": -1,
+        "day": -1,
+        "evening": -1
+      }
+    },
+    "week3": {
+      "day1": {
+        "morning": -1,
+        "lunch": -1,
+        "day": -1,
+        "evening": -1
+      },
+      "day2": {
+        "morning": -1,
+        "lunch": -1,
+        "day": -1,
+        "evening": -1
+      },
+      "day3": {
+        "morning": -1,
+        "lunch": -1,
+        "day": -1,
+        "evening": -1
+      },
+      "day4": {
+        "morning": -1,
+        "lunch": -1,
+        "day": -1,
+        "evening": -1
+      },
+      "day5": {
+        "morning": -1,
+        "lunch": -1,
+        "day": -1,
+        "evening": -1
+      },
+      "day6": {
+        "morning": -1,
+        "lunch": -1,
+        "day": -1,
+        "evening": -1
+      },
+      "day7": {
+        "morning": -1,
+        "lunch": -1,
+        "day": -1,
+        "evening": -1
+      }
+    },
+    "week4": {
+      "day1": {
+        "morning": -1,
+        "lunch": -1,
+        "day": -1,
+        "evening": -1
+      },
+      "day2": {
+        "morning": -1,
+        "lunch": -1,
+        "day": -1,
+        "evening": -1
+      },
+      "day3": {
+        "morning": -1,
+        "lunch": -1,
+        "day": -1,
+        "evening": -1
+      },
+      "day4": {
+        "morning": -1,
+        "lunch": -1,
+        "day": -1,
+        "evening": -1
+      },
+      "day5": {
+        "morning": -1,
+        "lunch": -1,
+        "day": -1,
+        "evening": -1
+      },
+      "day6": {
+        "morning": -1,
+        "lunch": -1,
+        "day": -1,
+        "evening": -1
+      },
+      "day7": {
+        "morning": -1,
+        "lunch": -1,
+        "day": -1,
+        "evening": -1
+      }
+    },
+    "week5": {
+      "day1": {
+        "morning": -1,
+        "lunch": -1,
+        "day": -1,
+        "evening": -1
+      },
+      "day2": {
+        "morning": -1,
+        "lunch": -1,
+        "day": -1,
+        "evening": -1
+      },
+      "day3": {
+        "morning": -1,
+        "lunch": -1,
+        "day": -1,
+        "evening": -1
+      },
+      "day4": {
+        "morning": -1,
+        "lunch": -1,
+        "day": -1,
+        "evening": -1
+      },
+      "day5": {
+        "morning": -1,
+        "lunch": -1,
+        "day": -1,
+        "evening": -1
+      },
+      "day6": {
+        "morning": -1,
+        "lunch": -1,
+        "day": {
+          "type": "cycling",
+          "minutes": 120.0,
+          "distance": 40.0,
+          "load": "medium"
+        },
+        "evening": {
+          "predefinedworkout": "workout5"
+        }
+      },
+      "day7": {
+        "morning": {
+          "type": "run",
+          "minutes": 80,
+          "distance": 10,
+          "load": "medium"
+        },
+        "lunch": -1,
+        "day": {
+          "predefinedworkout": "workout2"
+        },
+        "evening": {
+          "type": "cycling",
+          "minutes": 120,
+          "distance": 50,
+          "load": "easy"
+        }
+      }
+    },
+    "week6": {
+      "day1": {
+        "morning": -1,
+        "lunch": -1,
+        "day": -1,
+        "evening": -1
+      },
+      "day2": {
+        "morning": -1,
+        "lunch": -1,
+        "day": -1,
+        "evening": -1
+      },
+      "day3": {
+        "morning": -1,
+        "lunch": -1,
+        "day": -1,
+        "evening": -1
+      },
+      "day4": {
+        "morning": -1,
+        "lunch": -1,
+        "day": -1,
+        "evening": -1
+      },
+      "day5": {
+        "morning": -1,
+        "lunch": -1,
+        "day": -1,
+        "evening": -1
+      },
+      "day6": {
+        "morning": -1,
+        "lunch": -1,
+        "day": -1,
+        "evening": -1
+      },
+      "day7": {
+        "morning": -1,
+        "lunch": -1,
+        "day": -1,
+        "evening": -1
+      }
+    }
+  }
+}
